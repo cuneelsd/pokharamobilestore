@@ -62,14 +62,14 @@ p{
 		margin-left: 25px;
 }
 .col-2 img{
-	max-width: 100%;
-	padding: 50px 0;
+	max-width: 80%;
+	padding: 10px 0;
 }
 
 .col-2 h1 {
-	font-size: 50px;
-	line-height: 60px;
-	margin: 25px 0;
+	font-size: 35px;
+	line-height: 38px;
+	margin: 15px 0;
 	
 }
 .btn {
@@ -120,9 +120,9 @@ p{
 
 .col-4 {
 	flex-basis: 25px;
-	padding: 10px;
+	padding: 10px;	
 	min-width: 200px;
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 	transition: transform 0.5s;
 }
 
@@ -149,7 +149,7 @@ p{
 
 .title{
 	text-align: center;
-	margin: 0 auto 80px;
+	margin: 0 auto 20px;
 	position: relative;
 	line-height: 60px;
 	color: #555; 
@@ -377,7 +377,7 @@ select:focus{
 
 /*--------- Single Product ---------*/
 .single-product {
-	margin-top: 80px;
+	margin-top: 10px;
 }
 
 .single-product .col-2 img{
@@ -452,7 +452,7 @@ input:focus{
 		left: 0;
 		background: #333;
 		width: 100%;
-		overflow: hidden;
+		overflow: scroll;
 		transition: max-height 0.5s;
 	}	
 	
